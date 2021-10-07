@@ -5,3 +5,4 @@ document.querySelector('#button').addEventListener("click", () => {
 document.querySelector('#image').addEventListener('mouseover', () => {
     alert('OMG those look SO good!')
 })
+
