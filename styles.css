@@ -1,6 +1,6 @@
-html, body {
-    height: 70%;
-}
+/* html, body {
+    height: %;
+} */
 
 html {
     display: table;
@@ -16,6 +16,9 @@ body {
 #button {
     background-color: lightsalmon;
     color: black;
+    margin: 30%;
+    width: 200px;
+    height: 100px;
 }
 
 h1 {
@@ -31,12 +34,6 @@ h2 {
 #image {
     margin: 21%;
     border-radius: 15%;
-}
-
-#button {
-    margin: 30%;
-    width: 150px;
-
 }
 
 #link {
