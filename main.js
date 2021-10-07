@@ -7,7 +7,7 @@ document.querySelector('#button').addEventListener('mouseover', (event) => {
     event.target.style.color = "lightsalmon"
 });
 
-document.querySelector('#button').addEventListener('mouseoff', (event) => {
+document.querySelector('#button').addEventListener('mouseout', (event) => {
     event.target.style.backgroundColor = "lightsalmon"
     event.target.style.color = "black"
 });
