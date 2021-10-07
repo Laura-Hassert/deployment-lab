@@ -1,4 +1,45 @@
-.button {
-    background-color: yellow;
-    color: black
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    background-color: lightyellow;
+    vertical-align: middle;
+    height: 100%;
+}
+
+#button {
+    background-color: lightsalmon;
+    color: black;
+}
+
+h1 {
+    color: lightsalmon;
+    margin: 25%;
+}
+
+h2 {
+    color: lightsalmon;
+    margin: auto;
+}
+
+#image {
+    margin: 21%;
+    border-radius: 15%;
+}
+
+#button {
+    margin: 30%;
+    width: 150px;
+
+}
+
+#link {
+    size: 5px;
+    margin: 25%;
 }
